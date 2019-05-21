@@ -2,7 +2,7 @@
 
 ## Cara Mengerjakan
 - Clone https://gitlab.suararadio.com/tdl/test.git
-- Buka file index.js menggunakan browser.
+- Buka file index.html menggunakan browser.
 - Ikuti langkah yang tertera pada halaman.
 
 ## Ketentuan
