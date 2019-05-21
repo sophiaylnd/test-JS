@@ -5,9 +5,16 @@
  * @return sebuah @Object
  */
 function ambilInfoArray(dataArray) {
-  const dataObject = {}; //membuat variabel Object
-
   //tempat coding disini
 
-  return dataObject;
+  var data = ["ayam", "bebek", "angsa"];
+  return data;
+}
+function ambilInfoArray(dataArray) {
+  //tempat coding disini
+
+  var data = ["ayam", "bebek", "angsa"];
+  var panjangData = data.length;
+
+  return {data , panjangData};
 }

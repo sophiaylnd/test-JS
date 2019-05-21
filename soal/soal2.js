@@ -8,9 +8,6 @@
  * @return sebuah @Array
  */
 function membuatArray(param1, param2, param3, param4) {
-  const arraySaya = []; //membuat variabel Array
-
-  //tempat coding disini
-
+  var arraySaya = ["merah", "kuning", "hijau", "biru"]; //membuat variabel Array
   return arraySaya;
 }

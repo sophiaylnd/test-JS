@@ -7,6 +7,7 @@
  */
 function hapusArray(arrayBuah, arrayHewan) {
   const arrayBuahBaru = []; //membuat Array baru
+  var arrayBuahBaru=arrayBuah.pop();
 
   //tempat coding disini
 
